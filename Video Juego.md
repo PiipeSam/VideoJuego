@@ -1,4 +1,6 @@
 # VideoJuego
+Este código crea una lista de videojuegos y luego la muestra por consola, con funcionalidades como eliminar videojuegos basándote en su título y buscar videojuegos por título y género. 
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
