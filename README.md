@@ -1,5 +1,4 @@
 # VideoJuego
-App para facilitar la gestión de los videojuegos
 import java.util.ArrayList;
 import java.util.Scanner;
 
